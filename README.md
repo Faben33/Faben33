@@ -6,8 +6,7 @@ I'm a Technical Support Specialist with 6+ years in tech and SaaS, helping custo
 ### 👩‍💻 About me
 
 - 🌎 Based in Santiago, Chile
-- 💼 6+ years of experience in SaaS and customer-facing technical operations
-- 🔧 Incident management, troubleshooting, system integrations, log analysis, escalations, and cross-functional collaboration with Engineering and Product teams
+- 💼 6+ years of experience in tech and SaaS, customer-facing technical operations, troubleshooting, system integrations, log analysis, and cross-functional collaboration.
 - 🗣️ Languages: Spanish (native), English (advanced), French (A2), Portuguese (basic), Hindi (basic)
 
 ### 🎯 Currently
