@@ -11,9 +11,8 @@ I'm a Technical Support Specialist with 6+ years in tech and SaaS, helping custo
 
 ### 🎯 Currently
 
-- 🔭 Former Technical Support Specialist II at PagerDuty (May 2025 – Aug 2026)
-- 📚 Taking a Project Management course with PMI 
 - 🌱 Strengthening my skills in **APIs, Python, and AI**
+- 📚 Taking a Project Management course with PMI 
 - 👀 Open to opportunities in **Technical Support, Support Engineering, Incident Management, Technical Account Management, and Project/Program Management.** roles. 
 
 ### 🛠️ Technical Skills
