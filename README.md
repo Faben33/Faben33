@@ -41,5 +41,5 @@ Troubleshooting · Incident Management · Log Analysis · Root Cause Analysis ·
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📫 Get in touch
-👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faben33/)
-📧 fvgonzalezs96@gmail.com
+-👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faben33/)
+-📧 fvgonzalezs96@gmail.com
