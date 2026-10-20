@@ -40,6 +40,12 @@ Troubleshooting · Incident Management · Log Analysis · Root Cause Analysis ·
 ![Vonage](https://img.shields.io/badge/Vonage-871FFF?style=flat&logo=vonage&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+**GenAI/NPL**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
 ### 📫 Get in touch
--👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faben33/)
--📧 fvgonzalezs96@gmail.com
+- 👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faben33/)
+
+- 📧 fvgonzalezs96@gmail.com
