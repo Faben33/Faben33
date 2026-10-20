@@ -1,6 +1,6 @@
 # Hi, I'm Fabiola 👋
-**Technical Support Specialist · APIs · Incident Management · Troubleshooting**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiola-gonzalez-socorro-8ba728116/)
+I'm a Technical Support Specialist with 6+ years in tech and SaaS, helping customers solve complex problems and get more value from the product.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faben33/)
 
 ---
 
@@ -41,14 +41,6 @@ Troubleshooting · Incident Management · Log Analysis · Root Cause Analysis ·
 ![Vonage](https://img.shields.io/badge/Vonage-871FFF?style=flat&logo=vonage&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Data & Workflow**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Reporting · Cross-functional Coordination
-
-### 📫 Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/fabiola-gonzalez-socorro-8ba728116/)
+### 📫 Get in touch
+👔 [LinkedIn](https://www.linkedin.com/in/fabiola-gonzalez-socorro-8ba728116/)
+📧 fvgonzalezs96@gmail.com
